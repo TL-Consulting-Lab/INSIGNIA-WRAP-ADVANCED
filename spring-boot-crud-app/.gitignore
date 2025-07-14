@@ -1,0 +1,39 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs and editors
+/.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+/build/
+
+# Dependency directories
+/node_modules/
+
+# Environment files
+.env
+
+# Others
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code
+.vscode/
