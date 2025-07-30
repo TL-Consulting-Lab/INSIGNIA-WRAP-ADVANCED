@@ -43,9 +43,9 @@ This document demonstrates various GitHub Copilot features and capabilities for 
 
 **Prompt for Copilot**:
 ```
-// Update this Maven Spring Boot project from Java 17 to Java 21
-// Include all necessary configuration changes in pom.xml
-// Update any deprecated APIs and take advantage of Java 21 features
+Update this Maven Spring Boot project from Java 17 to Java 21
+Include all necessary configuration changes in pom.xml
+Update any deprecated APIs and take advantage of Java 21 features
 ```
 
 **Tasks to Complete**:
@@ -76,10 +76,10 @@ This document demonstrates various GitHub Copilot features and capabilities for 
 
 **Prompt for Copilot**:
 ```
-// Migrate this Spring Boot REST API to Ktor framework using Kotlin
-// Configure Java and Kotlin to use the same JVM target (Java 21)
-// Set up Gradle build system with Gradle Wrapper
-// Maintain the same API endpoints and functionality
+Migrate this Spring Boot REST API to Ktor framework using Kotlin
+Configure Java and Kotlin to use the same JVM target (Java 21)
+Set up Gradle build system with Gradle Wrapper
+Maintain the same API endpoints and functionality
 ```
 
 **Migration Tasks**:
@@ -138,10 +138,10 @@ This document demonstrates various GitHub Copilot features and capabilities for 
 
 **Copilot Prompt**:
 ```
-// Create comprehensive GitHub Actions workflows for this Spring Boot project
-// Include CI pipeline with testing, security scanning, and quality checks
-// Set up CD pipeline with automated deployment
-// Include dependency vulnerability scanning and code quality analysis
+Create comprehensive GitHub Actions workflows for this Spring Boot project
+Include CI pipeline with testing, security scanning, and quality checks
+Set up CD pipeline with automated deployment
+Include dependency vulnerability scanning and code quality analysis
 ```
 **Gradle Wrapper Setup Commands**:
 ```bash
