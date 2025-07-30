@@ -13,21 +13,66 @@
 *.tmp
 *.log
 
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Spring Boot
+application-*.properties
+application-*.yml
+!application.properties
+!application.yml
+
 # OS files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+*~
 
 # Logs
 *.log
+logs/
+spring.log
 
 # Build
 /build/
+out/
 
 # Dependency directories
 /node_modules/
 
 # Environment files
 .env
+.env.local
+.env.*.local
+
+# Database files (if using file-based databases)
+*.db
+*.sqlite
+*.sqlite3
 
 # Others
 *.class
@@ -35,5 +80,25 @@ Thumbs.db
 *.war
 *.ear
 
-# VS Code
-.vscode/
+# Test output
+/test-output/
+
+# Gradle (in case you switch build systems)
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Package Files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# JVM Crash logs
+hs_err_pid*
+
+# Application specific
+# Add any custom files your application generates
