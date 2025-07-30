@@ -8,10 +8,10 @@
 
 **Copilot Prompt**:
 ```
-// Upgrade this Spring Boot project from version 3.2.0 to 3.3.2
-// Handle all breaking changes and deprecated APIs
-// Update all dependencies to compatible versions
-// Ensure all features continue to work after upgrade
+Upgrade this Spring Boot project from version 3.2.0 to 3.3.2
+Handle all breaking changes and deprecated APIs
+Update all dependencies to compatible versions
+Ensure all features continue to work after upgrade
 ```
 
 **Requirements**:
@@ -50,10 +50,10 @@
 
 **Copilot Prompt**:
 ```
-// Convert this entire Java Spring Boot project to Kotlin
-// Maintain all existing functionality and improve with Kotlin features
-// Set up proper build configuration for Kotlin Spring Boot
-// Use Kotlin best practices and idioms throughout
+Convert this entire Java Spring Boot project to Kotlin
+Maintain all existing functionality and improve with Kotlin features
+Set up proper build configuration for Kotlin Spring Boot
+Use Kotlin best practices and idioms throughout
 ```
 
 **Requirements**:
@@ -105,10 +105,10 @@
 
 **Copilot Prompt**:
 ```
-// Create comprehensive GitHub Actions workflows for this Spring Boot project
-// Include CI pipeline with testing, security scanning, and quality checks
-// Set up CD pipeline with automated deployment
-// Include dependency vulnerability scanning and code quality analysis
+Create comprehensive GitHub Actions workflows for this Spring Boot project
+Include CI pipeline with testing, security scanning, and quality checks
+Set up CD pipeline with automated deployment
+Include dependency vulnerability scanning and code quality analysis
 ```
 
 **Requirements**:
